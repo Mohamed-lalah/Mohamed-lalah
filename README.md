@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Maher</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 
-- 🔭 I’m currently working on **Click Buy**
+- 🔭 I’m currently working as **Flutter developer**
 
-- 🌱 I’m currently learning **Flutter in deap**
+- 🌱 I’m currently learning **Flutter in deep**
 
 - 👯 I’m looking to collaborate on **Theater App**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohamed-maher-741697191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mohamed-maher-741697191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- 💬 Ask me about **Firebase ,Hive, MVVM , Clean architecture,Solid Principles, Java , Dart ,API**
+- 💬 Ask me about **Firebase ,Hive, MVVM , Clean architecture,Solid Principles, Java , Dart ,API , Kotlin ,Design patterns**
 
 - 📫 How to reach me **Mohamedlalah918@gmail.com**
 
