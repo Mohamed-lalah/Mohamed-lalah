@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **Mohamedlalah918@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-maher-741697191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mohamed-maher-741697191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - ⚡ Fun fact **The first bug in a computer program was a real moth found in 1947! 🐛**
 
